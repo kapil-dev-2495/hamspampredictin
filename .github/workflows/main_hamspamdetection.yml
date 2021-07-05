@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'hamspamdetection'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_f36df52b8f234ef8bda0fd198346f648 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_f4e3c983ee2b4a2b9bb90493dc27bafc }}
